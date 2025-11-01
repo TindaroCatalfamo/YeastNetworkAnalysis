@@ -1,0 +1,9 @@
+{
+    "num_nodes": 1458,
+    "num_edges": 1457,
+    "avg_shortest_path_length": 6.777247722314958,
+    "diameter": 17,
+    "num_components": 1,
+    "largest_component_size": 1458,
+    "global_efficiency": 0.16683484185406386
+}
