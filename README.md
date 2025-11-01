@@ -1,7 +1,7 @@
 # Yeast Network Analysis
 
 This repository contains the university project **"Network Analysis and Simulation"**, developed as part of the **Complex Social Network (CSN)** course.  
-The project was carried out in collaboration with [Domenico Sosta](https://github.com/domenicososta).
+The project was carried out in collaboration with [Domenico Sosta](https://github.com/Nico281102).
 
 ---
 
