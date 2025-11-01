@@ -10,7 +10,7 @@ The project was carried out in collaboration with [Domenico Sosta](https://githu
 This project aims to **analyze, simulate, and compare a real-world biological network dataset** with theoretical network models.  
 The goal is to gain insights into the network’s structural properties and propose strategies to improve its robustness and functionality — following the typical analytical approach of *Complex Social Network* studies.
 
-The selected dataset represents the **Bio-Yeast protein interaction network** (*Saccharomyces cerevisiae*), analyzed and compared with theoretical models including **Erdős–Rényi**, **Watts–Strogatz**, and **Barabási–Albert**.
+The selected dataset represents the **Bio-Yeast protein interaction network** (*Saccharomyces cerevisiae*).
 
 ---
 
